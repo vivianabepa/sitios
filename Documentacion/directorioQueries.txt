@@ -1,0 +1,8 @@
+Viviana Benavides Taller 3
+
+Directorio de queries
+
+SELECT id, nombre, latitud, longitud FROM places WHERE id ='".$iconoActual."'";
+
+Este query sirve para obtener la lista de lugares con su respectiva ubicacion de la base de datos, que corresponden al id dependiendo del tipo de lugar que se este queriendo encontrar.
+

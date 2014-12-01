@@ -1,0 +1,40 @@
+body {
+
+	background: #ecf0f1;
+}
+
+
+
+#graphCanvas{
+	border: solid black;
+}
+
+#opciones {
+
+	width: 400px;
+	height: 200px;
+	position: relative;
+	left:400px;
+	top: -200px;
+}
+
+#map {
+	
+	width: 1430px;
+	height: 590px;
+	margin-top: -210px;
+}
+
+#titulos {
+
+	font-family: georgia;
+	color:#34495e;
+}
+
+#MainTittle {
+
+	font-family: georgia;
+	color: #2c3e50;
+}
+
+
